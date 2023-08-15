@@ -1,4 +1,14 @@
 def tel (num):
-    for x in range(1,12):
-    print(num) 
-tel(88005553535)
+    print(num, end='')
+tel(8)
+tel(8)
+tel(0)
+tel(0)
+tel(5)
+tel(5)
+tel(5)
+tel(3)
+tel(5)
+tel(3)
+tel(5)
+      
